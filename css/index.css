@@ -54,7 +54,7 @@ main {
     padding: 20px;
 }
 .estadisticas,.novedades {
-    flex: 1;*/
+    flex: 1;
     background-color: var(--color-section);
     padding: 15px;
     border-radius: 10px;
